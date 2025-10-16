@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Rakesh Mohankumar
 
 🎓 MSc Business Analytics @ University of Exeter, UK  
-💼 Customer Success Manager → Data Analyst Transition  
+💼 Customer Success Manager → Business Analyst Transition  
 📍 Based in Exeter, United Kingdom  
-🔗 [LinkedIn](https://linkedin.com/in/rakeshtiya)
+🔗 [LinkedIn]([https://linkedin.com/in/rakeshtiya](https://www.linkedin.com/in/rakesh-mohankumar-367915161/))
 
 ---
 
-## 🚀 My Data Analytics Portfolio
+## 🚀 My Business Analytics Portfolio
 
 | Project | Description | Tools |
 |----------|--------------|-------|
