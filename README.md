@@ -15,7 +15,7 @@
 ```yaml
 name: Rakesh Mohankumar
 location: Exeter, United Kingdom 🇬🇧
-education: MSc Business Analytics @ University of Exeter (2024-25)
+education: MSc Business Analytics @ University of Exeter (Jan 2025- Jan 2026)
 experience: 6+ years in SaaS | Technical Support @ Zoho | Customer Success @ Animaker
 current_focus: Transitioning into Data/Analytics roles in the UK market
 ```
