@@ -39,6 +39,26 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 <tr>
 <td width="50%">
 
+### ⭐ CRM Data Migration Pipeline (NEW)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/hubspot-data-pipeline)
+
+**Production-grade ETL pipeline** for migrating legacy CRM data to HubSpot
+
+| Metric | Result |
+|--------|--------|
+| 📥 Input | 5,000 raw contacts |
+| 📤 Output | 3,783 clean records |
+| ✅ Clean Rate | 75.7% |
+
+- 📞 UK phone normalization (E.164)
+- ✉️ Email validation & domain extraction
+- 🔄 Fuzzy deduplication engine
+
+`Python` `Pandas` `ETL` `HubSpot`
+
+</td>
+<td width="50%">
+
 ### 🔮 SaaS Churn Prediction Pipeline
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/saas-churn-prediction)
 
@@ -54,6 +74,8 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 `Python` `Scikit-learn` `Pandas` `Multi-DB`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🚗 BMW Car Pricing Analysis
@@ -68,8 +90,6 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 `Python` `Pandas` `Matplotlib` `Scikit-learn`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎓 LLM-Enhanced Recommender System
@@ -82,18 +102,6 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 - 📚 Academic research methodology
 
 `NLP` `LLMs` `Recommendation Systems` `Research`
-
-</td>
-<td width="50%">
-
-### 📊 More Coming Soon...
-  
-**Planned Projects:**
-- 🔍 Google Analytics 4 Dashboard (Tableau)
-- 📈 Customer Retention Analytics Tool
-- 🤖 AI-Powered Support Ticket Classifier
-
-*Watch this space!*
 
 </td>
 </tr>
