@@ -27,6 +27,7 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 - 📊 **Data-Driven Decision Making** — Built churn prediction dashboards & retention analytics
 - 🤖 **AI/ML Applications** — LLM-enhanced recommendation systems, predictive modelling
 - 🔗 **Multi-Database Architecture** — SQL Server, MongoDB, Neo4j, Redis integration
+- ☁️ **Cloud Data Engineering** — Azure Databricks, Data Factory, ADLS Gen2
 - 📈 **Customer Success Metrics** — CHI scores, NPS analysis, revenue retention
 
 <br clear="right"/>
@@ -39,7 +40,27 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 <tr>
 <td width="50%">
 
-### ⭐ CRM Data Migration Pipeline (NEW)
+### ☁️ Azure Medallion Architecture Pipeline (NEW)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/azure-medallion-architecture-bronze-silver-gold-data-pipeline-azure-)
+
+**End-to-end cloud data engineering** implementing the Bronze-Silver-Gold pattern
+
+```
+🥉 Bronze  → Raw data landing (ADLS Gen2)
+🥈 Silver  → Cleaned & validated data
+🥇 Gold    → Business-ready aggregates
+```
+
+- 🏭 Azure Data Factory for ingestion
+- ⚡ Databricks + PySpark transformations
+- 🔐 SAS token security implementation
+
+`Azure` `Databricks` `PySpark` `Data Factory` `ADLS Gen2`
+
+</td>
+<td width="50%">
+
+### ⭐ CRM Data Migration Pipeline
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/hubspot-data-pipeline)
 
 **Production-grade ETL pipeline** for migrating legacy CRM data to HubSpot
@@ -57,6 +78,8 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 `Python` `Pandas` `ETL` `HubSpot`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔮 SaaS Churn Prediction Pipeline
@@ -74,8 +97,6 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 `Python` `Scikit-learn` `Pandas` `Multi-DB`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🚗 BMW Car Pricing Analysis
@@ -90,6 +111,8 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 `Python` `Pandas` `Matplotlib` `Scikit-learn`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎓 LLM-Enhanced Recommender System
@@ -102,6 +125,18 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 - 📚 Academic research methodology
 
 `NLP` `LLMs` `Recommendation Systems` `Research`
+
+</td>
+<td width="50%">
+
+### 📊 More Coming Soon...
+  
+**Planned Projects:**
+- 📈 Customer Retention Dashboard (Tableau)
+- 🤖 AI-Powered Support Ticket Classifier
+- 🌐 Personal Portfolio Website
+
+*Watch this space!*
 
 </td>
 </tr>
@@ -117,6 +152,11 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Cloud & Data Engineering
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### Visualization & BI
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -153,7 +193,7 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 
 **Open to opportunities in Customer Success Analytics, Business/Data Analyst, and RevOps roles in the UK**
 
-📧 [rakeshtiya@gmail.com](mailto:rakeshtiya@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/rakeshtiya) • 📍 Exeter, UK
+📧 [rakeshtiya@gmail.com](mailto:rakeshtiya@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-mohankumar-367915161/) • 📍 Exeter, UK
 
 </div>
 
