@@ -41,7 +41,7 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 <td width="50%">
 
 ### 📊 Business Analyst Case Studies (NEW)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/business-analyst-portfolio)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/business-analysis-case-studies-data-driven-solutions)
 
 **Real-world BA case studies** across Healthcare, Retail & IT sectors
 
