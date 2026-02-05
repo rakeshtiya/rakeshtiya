@@ -28,7 +28,7 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 - 🤖 **AI/ML Applications** — LLM-enhanced recommendation systems, predictive modelling
 - 🔗 **Multi-Database Architecture** — SQL Server, MongoDB, Neo4j, Redis integration
 - ☁️ **Cloud Data Engineering** — Azure Databricks, Data Factory, ADLS Gen2
-- 📈 **Customer Success Metrics** — CHI scores, NPS analysis, revenue retention
+- 📈 **Business Analysis** — Requirements gathering, ROI analysis, stakeholder management
 
 <br clear="right"/>
 
@@ -40,7 +40,28 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 <tr>
 <td width="50%">
 
-### ☁️ Azure Medallion Architecture Pipeline (NEW)
+### 📊 Business Analyst Case Studies (NEW)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/business-analyst-portfolio)
+
+**Real-world BA case studies** across Healthcare, Retail & IT sectors
+
+| Case Study | Impact |
+|------------|--------|
+| 🏥 Healthcare Scheduling | £9.7M annual savings |
+| 🛒 Retail Checkout | 115% ROI |
+| 💼 CRM Modernization | 8-12 week deployment |
+
+- 📈 ROI & payback period analysis
+- 👥 Stakeholder mapping & management
+- 📋 MoSCoW prioritization frameworks
+- 💰 Financial modelling in Excel
+
+`Business Analysis` `Requirements Gathering` `Financial Modelling` `Stakeholder Management`
+
+</td>
+<td width="50%">
+
+### ☁️ Azure Medallion Architecture Pipeline
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/azure-medallion-architecture-bronze-silver-gold-data-pipeline-azure-)
 
 **End-to-end cloud data engineering** implementing the Bronze-Silver-Gold pattern
@@ -58,6 +79,8 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 `Azure` `Databricks` `PySpark` `Data Factory` `ADLS Gen2`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ⭐ CRM Data Migration Pipeline
@@ -78,8 +101,6 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 `Python` `Pandas` `ETL` `HubSpot`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🔮 SaaS Churn Prediction Pipeline
@@ -97,6 +118,8 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 `Python` `Scikit-learn` `Pandas` `Multi-DB`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🚗 BMW Car Pricing Analysis
@@ -111,8 +134,6 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 `Python` `Pandas` `Matplotlib` `Scikit-learn`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎓 LLM-Enhanced Recommender System
@@ -125,18 +146,6 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 - 📚 Academic research methodology
 
 `NLP` `LLMs` `Recommendation Systems` `Research`
-
-</td>
-<td width="50%">
-
-### 📊 More Coming Soon...
-  
-**Planned Projects:**
-- 📈 Customer Retention Dashboard (Tableau)
-- 🤖 AI-Powered Support Ticket Classifier
-- 🌐 Personal Portfolio Website
-
-*Watch this space!*
 
 </td>
 </tr>
@@ -162,6 +171,11 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Business Analysis
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -191,7 +205,7 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 
 <div align="center">
 
-**Open to opportunities in Customer Success Analytics, Business/Data Analyst, and RevOps roles in the UK**
+**Open to opportunities in Business Analyst, Customer Success Analytics, Data Analyst, and RevOps roles in the UK**
 
 📧 [rakeshtiya@gmail.com](mailto:rakeshtiya@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-mohankumar-367915161/) • 📍 Exeter, UK
 
