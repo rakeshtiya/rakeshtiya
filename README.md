@@ -40,7 +40,32 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 <tr>
 <td width="50%">
 
-### 📊 Business Analyst Case Studies (NEW)
+### 🛒 UK Retail Sales ETL Pipeline (NEW)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/uk-retail-etl-pipeline)
+
+**Production-ready ETL pipeline** transforming messy multi-channel sales data into business intelligence
+
+| Challenge | Solution |
+|-----------|----------|
+| 🔴 95% date parsing failures | ✅ Custom logic → 0% failures |
+| 🔴 Mixed data formats | ✅ Standardized schemas |
+| 🔴 Revenue distortion | ✅ Deduplication pipeline |
+
+**Key Insights Unlocked:**
+- 💷 In-store customers spend **31% more** per transaction
+- 📊 Apparel & clothing drive **65% of revenue**
+- 🏪 London & Edinburgh stores show top performance
+
+- 🔧 Custom date parsing (UK/US/ISO formats)
+- 📈 Business-ready SQL queries
+- 🗄️ Clean SQLite database for BI tools
+
+`Python` `Pandas` `SQLite` `ETL` `Data Quality`
+
+</td>
+<td width="50%">
+
+### 📊 Business Analyst Case Studies
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/business-analysis-case-studies-data-driven-solutions)
 
 **Real-world BA case studies** across Healthcare, Retail & IT sectors
@@ -59,6 +84,8 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 `Business Analysis` `Requirements Gathering` `Financial Modelling` `Stakeholder Management`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ☁️ Azure Medallion Architecture Pipeline
@@ -77,6 +104,23 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 - 🔐 SAS token security implementation
 
 `Azure` `Databricks` `PySpark` `Data Factory` `ADLS Gen2`
+
+</td>
+<td width="50%">
+
+### 🔮 SaaS Churn Prediction Pipeline
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/saas-churn-prediction)
+
+**Polyglot persistence architecture** combining 4 databases to predict customer churn
+
+```
+📦 SQL Server  → Core customer data
+📦 MongoDB     → Product usage analytics  
+📦 Neo4j       → Referral network graph
+📦 Redis       → Real-time CHI caching
+```
+
+`Python` `Scikit-learn` `Pandas` `Multi-DB`
 
 </td>
 </tr>
@@ -103,25 +147,6 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 </td>
 <td width="50%">
 
-### 🔮 SaaS Churn Prediction Pipeline
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/saas-churn-prediction)
-
-**Polyglot persistence architecture** combining 4 databases to predict customer churn
-
-```
-📦 SQL Server  → Core customer data
-📦 MongoDB     → Product usage analytics  
-📦 Neo4j       → Referral network graph
-📦 Redis       → Real-time CHI caching
-```
-
-`Python` `Scikit-learn` `Pandas` `Multi-DB`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🚗 BMW Car Pricing Analysis
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/EDA_Car_Pricing_Analysis)
 
@@ -134,7 +159,9 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 `Python` `Pandas` `Matplotlib` `Scikit-learn`
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" colspan="2">
 
 ### 🎓 LLM-Enhanced Recommender System
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/rakeshtiya/llm-enhanced-recommender-system-dissertation)
@@ -198,13 +225,14 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakeshtiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
   <img height="180em" src="https://streak-stats.demolab.com/?user=rakeshtiya&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </div>
+
 ---
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-**Open to opportunities in Business Analyst, Customer Success Analytics, Data Analyst, and RevOps roles in the UK**
+**Open to opportunities in Business Analyst, Technical Support Engineer, Customer Success Analytics, Data Analyst roles in the UK**
 
 📧 [rakeshtiya@gmail.com](mailto:rakeshtiya@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-mohankumar-367915161/) • 📍 Exeter, UK
 
