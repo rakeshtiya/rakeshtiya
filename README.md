@@ -234,6 +234,12 @@ current_focus: Transitioning into Data/Analytics roles in the UK market
 
 **Open to opportunities in Business Analyst, Technical Support Engineer, Customer Success Analytics, Data Analyst roles in the UK**
 
+📧 Email: [namithaprasad04@gmail.com](mailto:namithaprasad04@gmail.com)
+
+🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/namitha-prasad-63a5a21a2/)
+
+📁 Kaggle: [My Kaggle](https://www.kaggle.com/namithaprasad04)
+
 📧 [rakeshtiya@gmail.com](mailto:rakeshtiya@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-mohankumar-367915161/) • 📍 Exeter, UK
 
 </div>
